@@ -24,6 +24,3 @@ With this API integration, developers can easily manage products, process orders
 - **WooCommerce REST API**
 - **cURL / Guzzle HTTP Client**
 
----
-
-## 🚀 Getting Started
