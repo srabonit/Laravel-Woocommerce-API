@@ -8,19 +8,18 @@ With this API integration, developers can easily manage products, process orders
 
 ## Key Features
 
-- 🛒 **Product Management:** Fetch product lists, single product details, categories, stock status, and pricing.
-- 📦 **Order Processing:** Create, track, update, and manage WooCommerce orders programmatically.
-- 👤 **User Authentication & Registration:** Register new users/customers and manage user profiles cleanly.
-- 🔑 **Secure Authentication:** Secure communication with WooCommerce API keys (Consumer Key & Consumer Secret).
-- 🚀 **Framework Agnostic API Usage:** Serves as a backend bridge for Web, Android, iOS, or Single Page Applications (SPAs).
-- ⚡ **Optimized Performance:** Clean architecture for quick response times and easy customization.
+- **Product Management:** Fetch product lists, single product details, categories, stock status, and pricing.
+- **Order Processing:** Create, track, update, and manage WooCommerce orders programmatically.
+- **User Authentication & Registration:** Register new users/customers and manage user profiles cleanly.
+- **Secure Authentication:** Secure communication with WooCommerce API keys (Consumer Key & Consumer Secret).
+- **Framework Agnostic API Usage:** Serves as a backend bridge for Web, Android, iOS, or Single Page Applications (SPAs).
+- **Optimized Performance:** Clean architecture for quick response times and easy customization.
 
 ---
 
-## 🛠️ Tech Stack & Requirements
+## Tech Stack & Requirements
 
-- **PHP:** 8.x
-- **Laravel Framework:** 9.x / 10.x / 11.x
+- **PHP:** 8.3
+- **Laravel Framework:**11.x
 - **WooCommerce REST API**
-- **cURL / Guzzle HTTP Client**
 
